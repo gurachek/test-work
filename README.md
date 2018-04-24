@@ -1,0 +1,1 @@
+Simple wp plugin.
